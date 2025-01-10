@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="da" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>Byggegrunde i Grimstrup</title>
+<meta name="author" content="Byggegrunde i Grimstrup">
+<meta name="description" content="Information om byggegrundene Egelundvej 29, 6818 Årre og Egelundvej 31, 6818 Årre.">
+<meta name="keywords" content="byggegrunde i grimstrup, grimstrup, grimstrup by, Egelundvej 29, Egelundvej 31, 6818 Årre">
+<meta name="robots" content="index,follow"/>
+<meta name="googlebot" content="index,follow"/>
+<link rel="canonical" href="https://byggegrundeigrimstrup.dk"/>
+<link href="./files/favicon.png" rel="shortcut icon">
+<link rel="stylesheet" href="./files/bootstrap.min.css">
+<link rel="stylesheet" href="./files/plugins.css">
+<link rel="stylesheet" href="./files/style.css">
+<link rel="stylesheet" href="./files/responsive.css">
+<link rel="stylesheet" href="./files/color.css">
+</head>
+<body>
+<div id="dtr-wrapper" class="clearfix"> 
+    <div class="dtr-preloader" style="display: none;">
+        <div class="dtr-preloader-inner">
+            <div class="dtr-loader">Indlæser...</div>
+        </div>
+    </div>
+    <div class="dtr-responsive-header fixed-top">
+        <div class="container"> 
+            <a href="#forside"><h3>Byggegrunde i Grimstrup</h1></a> 
+            <button id="dtr-menu-button" class="dtr-hamburger" type="button"><span class="dtr-hamburger-lines-wrapper"><span class="dtr-hamburger-lines"></span></span></button>
+        </div>
+        <div class="dtr-responsive-header-menu">
+            <div class="slicknav_menu">
+                <ul class="slicknav_nav slicknav_hidden dtr-scrollspy" style="touch-action: pan-y; display: none;" aria-hidden="true" role="menu">
+                    <li> <a class="nav-link active" href="#forside" role="menuitem" tabindex="-1">Forside</a> </li>
+                    <li> <a class="nav-link" href="#grunde" role="menuitem" tabindex="-1">Grunde</a> </li>
+                    <li> <a class="nav-link" href="#links" role="menuitem" tabindex="-1">Nyttige links</a> </li>
+                    <li> <a class="nav-link" href="#kort" role="menuitem" tabindex="-1">Kort</a> </li>
+                    <li> <a class="nav-link" href="#kontakt" role="menuitem" tabindex="-1">Kontaktoplysninger</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <header id="dtr-header-global" class="fixed-top">
+        <div class="d-flex align-items-center justify-content-between"> 
+            <div class="dtr-header-left"> 
+                <a class="logo-default dtr-scroll-link" href="#forside"><h1>Byggegrunde i Grimstrup</h1></a> 
+                <a class="logo-alt dtr-scroll-link" href="#forside"><h1>Byggegrunde i Grimstrup</h1></a> 
+            </div>
+            <div class="dtr-header-right ml-auto"> 
+                <div class="dtr-header-contact dtr-ml-50 dtr-mt-5">
+                    <p><a href="tel:004530539328">📞 +45 30 53 93 28 </a></p>
+                </div>
+                <div class="main-navigation dtr-menu-light">
+                    <ul class="sf-menu dtr-scrollspy dtr-nav dark-nav-on-load dark-nav-on-scroll dtr-menu-dark sf-js-enabled sf-arrows" style="touch-action: pan-y;">
+                        <li> <a class="nav-link active" href="#forside">Forside</a> </li>
+                        <li> <a class="nav-link" href="#grunde">Grunde</a> </li>
+                        <li> <a class="nav-link" href="#links">Nyttige links</a> </li>
+                        <li> <a class="nav-link" href="#kort">Kort</a> </li>
+                        <li> <a class="nav-link" href="#kontakt">Kontaktoplysninger</a> </li>
+                    </ul>
+                </div>
+            </div>   
+        </div>
+    </header>
+    <div id="dtr-main-content"> 
+        <section id="forside" class="dtr-section dtr-box-layout dtr-hero-section-top-padding"> 
+            <div class="dtr-box-wrapper-round dtr-bg-shapes-type-1 bg-white"> 
+                <div class="row"> 
+                    <div class="col-12 col-md-6 dtr-box-full-img" style="background-image: url(./files/grunde1.jpg);"> </div>
+                    <div class="col-12 col-md-6 dtr-py-100 dtr-sm-p-50 dtr-px-100"> 
+                        <h2>To byggegrunde til salg<br>i Grimstrup by</h2>
+                        <p>Har du og din familie lyst til, at etablere jer i en mindre by med omkring 600 indbyggere og kun ca. 15 minutters kørsel fra Esbjerg centrum via motorvej? <br> Der er også kun ca. 15 minutters kørsel til Varde og Bramming (stationsby), hvor der er gode handlemuligheder. </p>
+                        <a href="#grunde" class="dtr-btn dtr-btn-right-icon dtr-mt-30 dtr-mr-5 btn-dark-blue">Vis grundene 🏘️</a> 
+                        <a href="#kontakt" class="dtr-btn dtr-btn-right-icon dtr-mt-30 btn-blue">Kontakt mig 📞</a> 
+                        <div class="spacer-100"></div>
+                        <p class="tagline-style2 dtr-mb-0 color-dark">Priser starter fra ...</p>
+                        <p class="text-size-xl color-green text-shadow-green">KONTAKT MIG FOR PRIS</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="grunde" class="dtr-section dtr-bg-shapes-type-3 dtr-py-100">
+            <div class="dtr-box-layout"> 
+                <div class="dtr-section-heading-wrapper">
+                    <h2>Grimstrup by,<br>
+                        6818 Årre</h2>
+                    <p>I Grimstrup findes børnehave, skole og SFO med stisystem direkte fra den lukkede villavej Egelundvej.<br>Dertil findes også ungdomsklub, idrætsforening med gode faciliteter og stor aktivitet, samt en lille kirke og  forsamlingshus.</p>
+                </div>
+                <div class="row d-flex align-items-center dtr-mt-70"> 
+                    <div class="col-12 col-md-6">
+                        <div class="dtr-label-wrapper"> 
+                            <span class="dtr-label dtr-label-green">Til salg: Egelundvej 29</span> 
+                            <img src="./files/egelundvej29.jpg" alt="image" class="dtr-rounded-img"></div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class=" dtr-pl-40 dtr-sm-pl-0 small-device-space">
+                            <p class="text-size-sm dtr-mb-10">🏠 Egelundvej 29, Grimstrup by, 6818 Årre</p>
+                            <h2 class="dtr-mb-10">Egelundvej 29</h2>
+                            <p class="tagline-style1 color-green text-shadow-green">1059 m2</p>
+                            <p class="dtr-mb-30">Større byggegrund med klargjorte stikledninger.</p>
+                            <a class="dtr-btn dtr-btn-right-icon dtr-mr-5 btn-1" href="https://www.google.com/maps/place/Egelundvej+29,+6818+%C3%85rre" target="_blank" rel="noreferrer noopener">Find grunden på Google Maps 🗺️</a> 
+                        </div>
+                    </div>
+                </div>
+                <div class="row d-flex align-items-center dtr-mt-100"> 
+                    <div class="col-12 col-md-6">
+                        <div class=" dtr-pr-40 dtr-sm-pl-0 small-device-space">
+                            <p class="text-size-sm dtr-mb-10">🏠 Egelundvej 31, Grimstrup by, 6818 Årre</p>
+                            <h2 class="dtr-mb-10">Egelundvej 31</h2>
+                            <p class="tagline-style1 color-green text-shadow-green">864 m2</p>
+                            <p class="dtr-mb-30">Fornuftig størrelse byggegrund med klargjorte stikledninger.</p>
+                            <a class="dtr-btn dtr-btn-right-icon dtr-mr-5 btn-1" href="https://www.google.com/maps/place/Egelundvej+31,+6818+%C3%85rre" target="_blank" rel="noreferrer noopener">Find grunden på Google Maps 🗺️</a> 
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 small-device-space">
+                        <div class="dtr-label-wrapper"> 
+                            <span class="dtr-label dtr-label-green">Til salg: Egelundvej 31</span> 
+                            <img src="./files/egelundvej31.jpg" alt="image" class="dtr-rounded-img"></div>
+                    </div>
+                </div>
+                <div class="row d-flex align-items-center dtr-mt-100"> 
+                    <div class="col-12 col-md-6">
+                        <div class="dtr-label-wrapper"> 
+                            <span class="dtr-label dtr-label-blue">Kotekort</span> 
+                            <img src="./files/kotekort.png" alt="image" class="dtr-rounded-img"></div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="dtr-label-wrapper"> 
+                            <span class="dtr-label dtr-label-blue">Diagram over stikledning mv.</span> 
+                            <img src="./files/diagram.png" alt="image" class="dtr-rounded-img"></div>
+                    </div>    
+                </div>
+            </div>
+        </section>
+        <section id="links" class="dtr-section dtr-box-layout dtr-box-wrapper-round dtr-box-padding bg-white"> 
+            <div class="row"> 
+                <div class="col-12 col-md-6"> 
+                    <div class="dtr-section-heading-wrapper">
+                        <h3>Nyttige links og information</h3>
+                        <p>Omkring lokalsamfundet i Grimstrup by og køb af grund</p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 dtr-feature dtr-feature-top dtr-feature-square">
+                    <h5><a rel="noreferrer noopener" href="http://www.grimstrup-online.dk/" target="_blank">Grimstrup by</a></h5>
+                    <p>Opdag Grimstrup by på deres egen hjemmeside.</p>
+                </div>
+                <div class="col-12 col-md-3 dtr-feature dtr-feature-top dtr-feature-square">
+                    <h5><a rel="noreferrer noopener" href="https://da.wikipedia.org/wiki/Grimstrup_(Esbjerg_Kommune)" target="_blank">WIKI Grimstrup</a></h5>
+                    <p>Læs mere om byens historie på Wikipedia.</p>
+                </div>
+            </div>
+            <div class="row"> 
+                <div class="col-12 col-md-3 dtr-feature dtr-feature-top dtr-feature-square">
+                    <h5><a href="https://kirker.dk/kirke/grimstrup-kirke/" target="_blank" rel="noreferrer noopener">Grimstrup Kirke</a></h5>
+                    <p>Information kirkeliv, gudstjenester og arrangementer i Grimstrup Kirke.</p>
+                </div>
+                <div class="col-12 col-md-3 dtr-feature dtr-feature-top dtr-feature-square">
+                    <h5><a rel="noreferrer noopener" href="https://www.esbjerg.dk/ny-i-esbjerg/bolig/boligomraader/grimstrup" target="_blank">Esbjerg Kommune</a></h5>
+                    <p>Læs mere om Grimstrup by på Esbjerg Kommunes hjemmeside.</p>
+                </div>
+                <div class="col-12 col-md-3 dtr-feature dtr-feature-top dtr-feature-square">
+                    <h5><a href="http://www.vurdering.skat.dk/Ejendomsvurdering" target="_blank" rel="noreferrer noopener">Ejendomsvurdering</a></h5>
+                    <p>Undersøg nærmere om grunden på skat.dk's hjemmeside om ejendomsvurderinger.</p>
+                </div>      
+            </div>
+        </section>
+        <section id="kort" class="dtr-section dtr-box-layout dtr-py-100"> 
+            <div class="row"> 
+                <div class="col-12 col-md-12 text-center">
+                    <div class="dtr-blog-item"> 
+                        <h4><a href="https://maps.app.goo.gl/hMXsAtF87G57dbrd7" target="_blank" rel="noreferrer noopener"></a>Google Streetview</h4>
+                        <div class="dtr-post-img">
+                            <iframe src="https://www.google.com/maps/embed?pb=!4v1707080087915!6m8!1m7!1sDF9vowZrqTGG8FBpGEIqwg!2m2!1d55.52712597054209!2d8.647706427694153!3f152.6547498218918!4f-5.2879220814032095!5f0.7820865974627469" class="col-md-6" max-width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                        <p>Oplev grundene via Google Maps Street View!</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="kontakt" class="dtr-section dtr-box-layout dtr-box-wrapper-round dtr-bg-shapes-type-5 dtr-box-padding bg-white"> 
+            <div class="row dtr-bg-shapes-type-4"> 
+                <div class="col-12 col-md-8 offset-md-2 text-center"> 
+                    <div class="dtr-section-heading-wrapper">
+                        <h3>Kontakt oplysninger</h3>
+                        <p>Skulle du være interesseret i at købe eller høre mere om grundene,<br>kan jeg kontaktes her:</p>
+                    </div>
+                    <p>Laila Olesen<br>
+                        +45 30 53 93 28</p>
+                    <p class="tagline-style2 text-shadow-blue"><a href="mailto:lailaolesen20@gmail.com">lailaolesen20@gmail.com</a></p>
+                </div>
+            </div>
+        </section>
+    </div>
+    <footer id="dtr-footer"> 
+        <div class="dtr-footer-main dtr-box-layout"> 
+            <div class="row"> 
+                <div class="col-12 col-md-6 footer-col-1">
+                    <p class="dtr-mt-20">© Copyright. Lavet af <a href="https://schou.dev">Schou</a></p>
+                </div>
+                <div class="col-12 col-md-6 footer-col-2"> 
+                    <ul class="dtr-list-inline">
+                        <li><a href="#forside" class="dtr-scroll-link">Forside</a></li>
+                        <li><a href="#grunde" class="dtr-scroll-link">Grunde</a></li>
+                        <li><a href="#links" class="dtr-scroll-link">Nyttige links</a></li>
+                        <li><a href="#kort" class="dtr-scroll-link">Kort</a></li>
+                        <li><a href="#kontakt" class="dtr-scroll-link">Kontaktoplysninger</a></li>
+                    </ul>
+                </div>
+            </div>   
+        </div>     
+    </footer>  
+</div>
+<script src="./files/jquery.min.js"></script> 
+<script src="./files/bootstrap.min.js"></script> 
+<script src="./files/plugins.js"></script>
+<script src="./files/slick.min.js"></script>
+<script src="./files/custom.js"></script>
+</body>
+</html>
